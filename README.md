@@ -2,6 +2,8 @@
 
 [https://get-stack.com](https://get-stack.com) | [Mac App Store](https://itunes.apple.com/us/app/stack-all-notes-in-one-place/id1299443535?ls=1&mt=12)
 
+---
+
 > Stack is a beautiful and flexible key-value based note editor which helps you to organize your notes, ideas, links, todos, images, videos and much more, all in one place
 
 **Imagine your notebook and a smart app which helps you to be more productive, have a baby.**
@@ -14,4 +16,4 @@ The core of Stack are the keys. It's a great way to group your ideas and categor
 
 ## Feedback
 
-We would love to hear your feedback on [Twitter](https://twitter.com/chryb_). If you want to support Stack, you could write a review in the App Store.
+We would love to hear your feedback on [Twitter](https://twitter.com/chryb_). If you want to support Stack, you could write a review in the [App Store](https://itunes.apple.com/us/app/stack-all-notes-in-one-place/id1299443535?ls=1&mt=12).
