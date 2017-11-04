@@ -1,6 +1,6 @@
 ![stack logo github](./media/logo_x256_github.svg)
 
-[https://get-stack.com](https://get-stack.com) [Mac App Store](https://itunes.apple.com/us/app/stack-all-notes-in-one-place/id1299443535?ls=1&mt=12)
+[https://get-stack.com](https://get-stack.com) | [Mac App Store](https://itunes.apple.com/us/app/stack-all-notes-in-one-place/id1299443535?ls=1&mt=12)
 
 > Stack is a beautiful and flexible key-value based note editor which helps you to organize your notes, ideas, links, todos, images, videos and much more, all in one place
 
