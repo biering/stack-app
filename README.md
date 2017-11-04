@@ -1,4 +1,4 @@
-![stack logo github](./media/logo_x256_github.png)
+![stack logo github](./media/logo_x256_github.svg)
 
 Stack is a beautiful and flexible key-value based note editor which helps you to organize your notes, ideas, links, todos, images, videos and much more, all in one place.
 Imagine your notebook and a smart app which helps you to be more productive, have a baby.
