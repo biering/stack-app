@@ -17,3 +17,7 @@ The core of Stack are the keys. It's a great way to group your ideas and categor
 ## Feedback
 
 We would love to hear your feedback on [Twitter](https://twitter.com/chryb_). If you want to support Stack, you could write a review in the [App Store](https://itunes.apple.com/us/app/stack-all-notes-in-one-place/id1299443535?ls=1&mt=12).
+
+## Copyright
+
+Copyright (c) 2017 Christoph Biering
