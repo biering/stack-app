@@ -13,7 +13,7 @@ You can use Stack as a writer, but in the first place it's made for your various
 
 The core of Stack are the keys. It's a great way to group your ideas and categorize your thoughts. You can add them to notes on the fly and compose & filter your notes later.
 
-![./media/stack-web-preview.png](stack preview)
+![stack preview](./media/stack-web-preview.png)
 
 ## Feedback
 
